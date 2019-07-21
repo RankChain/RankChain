@@ -1,4 +1,4 @@
-![RankChain Logo](./Images/rankchain_bi.png)
+![RankChain Logo](../Images/rankchain_logo.png)
 
 Welcome to RankChain SDK!
 ====
