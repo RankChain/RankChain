@@ -1,10 +1,12 @@
 ![RankChain Logo](./Images/rankchain_logo.png)
 
-# RankChain
+# 🥇 RankChain
 
 ### **RankChain?**
 
 A blockchain platform which encourages users to compete each other and provides game-independent currencies. As the name implies, this platform is most suitable for score based games such as FlappyBird or Stack(from ketchapp).
+
+[📷 ScreenShot](https://www.notion.so/Screenshots-9117d86a6d4a454982ff47be2a7e4c2c)
 
 ### **RankChain SDK**
 
